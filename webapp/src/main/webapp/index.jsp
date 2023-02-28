@@ -5,7 +5,7 @@
     <hr>
 
     <label for="name"><b>name</b></label>
-    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <input type="text" placeholder="Enter full name" name="full name" id="full name" required>
     
 
     <label for="psw"><b>Password</b></label>
