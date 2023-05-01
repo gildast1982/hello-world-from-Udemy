@@ -1,28 +1,3 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
-
-    <label for="name"><b>name</b></label>
-    <input type="text" placeholder="Enter fullname" name="fullname" id="fullname" required>
-    
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-
-    <label for="num"><b>Phone Number</b></label>
-    <input type="Phone" placeholder="Enter Phone Number" name="num" id="num" required>
-    <hr>
-
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-</form>
+<!DOCTYPE html><html><head><base href=/ ><title>Jean 8:32</title><meta charset=utf-8><meta name=description content="Vous connaitrez la verite et elle vous affranchira"><meta name=format-detection content="telephone=no"><meta name=msapplication-tap-highlight content=no><meta name=viewport content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width"><link rel=icon type=image/png sizes=128x128 href=icons/favicon-128x128.png><link rel=icon type=image/png sizes=96x96 href=icons/favicon-96x96.png><link rel=icon type=image/png sizes=32x32 href=icons/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=icons/favicon-16x16.png><link rel=icon type=image/ico href=favicon.ico><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css><link href="https://fonts.googleapis.com/css?family=Montserrat:300i,400,700&display=swap" rel=stylesheet><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap" rel=stylesheet><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap" rel=stylesheet><link href="https://fonts.googleapis.com/css?family=Montserrat:300i,400,700&display=swap" rel=stylesheet><style>body {
+    font-family: 'Montserrat', sans-serif;
+}</style><script defer src=/js/vendor.60eac9ff.js></script><script defer src=/js/app.6b633969.js></script><link href=/css/vendor.683932aa.css rel=stylesheet><link href=/css/app.ea13096f.css rel=stylesheet><link rel=manifest href=manifest.json><meta name=theme-color content=#027be3><meta name=apple-mobile-web-app-capable content=yes><meta name=apple-mobile-web-app-status-bar-style content=default><meta name=apple-mobile-web-app-title content="Jean 8:32"><link rel=apple-touch-icon href=icons/apple-icon-120x120.png><link rel=apple-touch-icon sizes=152x152 href=icons/apple-icon-152x152.png><link rel=apple-touch-icon sizes=167x167 href=icons/apple-icon-167x167.png><link rel=apple-touch-icon sizes=180x180 href=icons/apple-icon-180x180.png><link rel=mask-icon href=icons/safari-pinned-tab.svg color=#027be3><meta name=msapplication-TileImage content=icons/ms-icon-144x144.png><meta name=msapplication-TileColor content=#000000></head><body><div id=q-app></div></body></html>
