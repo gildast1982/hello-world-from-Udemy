@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome To GildasT's Event</h1>
-    <h1>You will know the truth and the truth will set you free:John832</h1>
+    <h1>Welcome To John832's Event</h1>
+    <h1>You will know the truth and the truth will set you free </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
